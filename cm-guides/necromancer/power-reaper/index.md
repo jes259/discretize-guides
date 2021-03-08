@@ -19,14 +19,14 @@ disableOrganized: 'true'
 
 ### **Phase 1**
 2) Cast your healing signet into the invulnerability
-3) <Skill name="Nightfall"/> (GS 4)
-4) then <Skill name="Grasping Darkness"/> (GS 5)
+3) <Skill name="Grasping Darkness"/> (GS 5)
+4) then <Skill name="Nightfall"/> (GS 4)
 5) Place both of your wells
 6) enter shroud and youse <Skill name="Soul Spiral"/> (Shroud 4)
 7) Auto Attack in shroud until _MAMA_ phases
 
 ### *First Add*
-1) CC the add if needed
+1) CC the add 
 2) Use <Skill name="Death Spiral"/> (GS 3)
 3) Autoattack until the add reaches 50% health
 4) <Skill name="Gravedigger"/> (GS 2) until the add dies
@@ -35,7 +35,7 @@ disableOrganized: 'true'
 1) Cast your healing signet on _MAMA_ if it is off cooldown as you run to her
 2) Use <Skill name="Death Spiral"/> (GS 3) (if off cooldown)
 3) <Skill name="Gravedigger"/> (GS 2)
-4) Use <Skill name="Nightfall"/> (GS 4) and <Skill name="Grasping Darkness"/> (GS 5) when they are off cooldown
+4) Use <Skill name="Grasping Darkness"/> (GS 5) and <Skill name="Nightfall"/> (GS 4) when they are off cooldown
 5) Weapon swap
 6) <Skill name="Ghastly Claws"/> (Axe 2)
 7) Use both wells
@@ -57,8 +57,8 @@ If not under 50% health:
 2) then <Skill name="Gravedigger"/> (GS 2)
 
 ### **Phase 3**
-1) <Skill name="Nightfall"/> (GS 4)
-2) <Skill name="Grasping Darkness"/> (GS 5)
+1) <Skill name="Grasping Darkness"/> (GS 5)
+2) <Skill name="Nightfall"/> (GS 4)
 3) Place both of your wells
 4) If _MAMA_ is broken: <Skill name="Soul Spiral"/> (Shroud 4)
 4) If _MAMA_ isn't broken:
@@ -102,14 +102,14 @@ Remember to equip <Item name="serpentslaying"/> + <Item name="impact"/> for this
 5) Cast <Skill name="Lich Form"/> 4 at the orb before the encounter starts_ 
 
 ### **Phase 1**
-1) <Skill name="Nightfall"/> (GS 4)
-2) <Skill name="Grasping Darkness"/> (GS 5)
+1) <Skill name="Grasping Darkness"/> (GS 5)
+2) <Skill name="Nightfall"/> (GS 4)
 3) Place both of your wells
 4) <Skill name="Soul Spiral"/> (Shroud 4)
 5) <Skill name="Infusing Terror"/> (Shroud 3)
 6) <Skill name="Executioners Scythe"/> (Shroud 5)
 7) Shroud auto attack until _Siax_ phases **or** you are at ~6k Life force
-	1) Use <Skill name="Gravedigger"/> (GS 2)
+	1) <Skill name="Gravedigger"/> (GS 2)
 	2) <Skill name="Death Spiral"/> (GS 3)
 	3) Autoattack until _Siax_ phases
 
@@ -120,8 +120,8 @@ Remember to equip <Item name="serpentslaying"/> + <Item name="impact"/> for this
 
 ### **Phase 2**
 1) If Siax is still invulnerable, when your add dies, cast your healing signet into the invulnerabiltiy
-2) <Skill name="Nightfall"/> (GS 4)
-3) <Skill name="Grasping Darkness"/> (GS 5)
+2) <Skill name="Grasping Darkness"/> (GS 5)
+3) <Skill name="Nightfall"/> (GS 4)
 4) Place both of your wells
 5) <Skill name="Soul Spiral"/> (Shroud 4)
 6) Shroud auto attack until _Siax_ phases **or** you are at ~6k Life force
@@ -165,10 +165,10 @@ If you run <Skill name="Summon Flesh Golem"/> start on greatsword and use the go
 If you do not run <Skill name="Summon Flesh Golem"/> start on axe/warhorn and use <Skill name="Wail of Doom"/> (warhorn 4) as the invulnerability disappears and weapon swap
 
 1) Cst your healing signet into the invulnerability
-2) <Skill name="Nightfall"/> (GS 4)
-3) <Skill name="Grasping Darkness"/> (GS 5)
+2) <Skill name="Grasping Darkness"/> (GS 5)
+3) <Skill name="Nightfall"/> (GS 4)
 4) Place both of your wells
-5) If _Ensolyss_ is still not broken:
+5) If _Ensolyss_ is not broken:
 	1) <Skill name="Infusing Terror"/> (Shroud 3)
 	2) <Skill name="Executioners Scythe"/> (Shroud 5)
 	3) <Skill name="Soul Spiral"/> (Shroud 4)
@@ -196,18 +196,18 @@ If you do not run <Skill name="Summon Flesh Golem"/> start on axe/warhorn and us
 4) <Skill name="Ghastly Claws"/> (Axe 2) 
 5) <Skill name="Wail of Doom"/> (Warhorn 4) to help with CC
 6) Weapon Swap
-7) <Skill name="Nightfall"/> (GS 4)
-8) <Skill name="Grasping Darkness"/> (GS 5)
+7) <Skill name="Grasping Darkness"/> (GS 5)
+8) <Skill name="Nightfall"/> (GS 4)
 9) Place both of your wells
 10) <Skill name="Soul Spiral"/> (Shroud 4)
 11) Auto attack until 50%
 12) Continue rotation
 13) _Ensolyss_ will charge, <Skill name="Signet of Vampirism"/> (Heal) **during his charge**
-14) <Skill name="Nightfall"/> (GS 4)
-15) <Skill name="Grasping Darkness"/> (GS 5)
+14) <Skill name="Grasping Darkness"/> (GS 5)
+15) <Skill name="Nightfall"/> (GS 4)
 16) Place both of your wells
 17) <Skill name="Soul Spiral"/> (Shroud 4)
-18) Spam <Skill name="Gravedigger"/> until _Ensolyss_ phases
+18) Shroud auto attacks until _Ensolyss_ phases       
 
 ### **Phase 3**
 1) Use <Skill name="Signet of Vampirism"/> (Heal) to get back Scholar faster
@@ -215,7 +215,7 @@ If you do not run <Skill name="Summon Flesh Golem"/> start on axe/warhorn and us
 3) <Skill name="Wail of Doom"/> (Warhorn 4) to help with CC
 4) Continue rotation
 5) For the last 15% stay in shroud until you have no life force left
-6) If _Ensolyss_ isn’t dead by then, spam <Skill name="Gravedigger"/>
+6) If _Ensolyss_ isn’t dead by then, place wells and spam <Skill name="Gravedigger"/>
 
 
 
@@ -233,8 +233,8 @@ If you do not run <Skill name="Summon Flesh Golem"/> start on axe/warhorn and us
  ### **Phase 1**
 1) Cast <Skill name="Lich Form"/> 4 before _Skorvald_ starts 
 	1) if your group is really fast, keep Lich Form for the last phase
-2) <Skill name="Nightfall"/> (GS 4)
-3) <Skill name="Grasping Darkness"/> (GS 5)
+2) <Skill name="Grasping Darkness"/> (GS 5)
+3) <Skill name="Nightfall"/> (GS 4)
 4) Place both of your wells
 5) If _Skorvald_ is still not broken:
         2) <Skill name="Infusing Terror"/> (Shroud 3)
@@ -261,8 +261,8 @@ If you do not run <Skill name="Summon Flesh Golem"/> start on axe/warhorn and us
 	 3) Auto attack until add dies, take portal back
  
  ### **Phase 2**
- 1) <Skill name="Nightfall"/> (GS 4)
- 2) <Skill name="Grasping Darkness"/> (GS 5)
+ 1) <Skill name="Grasping Darkness"/> (GS 5)
+ 2) <Skill name="Nightdfall"/> (GS 4)
  3) Place both of your wells
  4) <Skill name="Soul Spiral"/> (Shroud 4)
  5) Weapon swap (if _Skorvald_ is not phased)
@@ -294,8 +294,8 @@ If you do not run <Skill name="Summon Flesh Golem"/> start on axe/warhorn and us
      
  ### **Phase 3**
  1) Cast <Skill name="Lich Form"/> 4
- 2) <Skill name="Nightfall"/> (GS 4)
- 3) <Skill name="Grasping Darkness"/> (GS 5)
+ 2) <Skill name="Grasping Darkness"/> (GS 5)
+ 3) <Skill name="Nightfall"/> (GS 4)
  4) Place both of your wells
  5) <Skill name="Soul Spiral"/> (Shroud 4)
  6) Shroud auto attack until _Skorvald_ dies
@@ -329,21 +329,21 @@ If you do not run <Skill name="Summon Flesh Golem"/> start on axe/warhorn and us
 ### *Split Phase 1*
 
 1) Go to your marker/direction
-2) CC the add with <Skill name="Grasping Darkness"/> (GS5), <Skill name="Wail of Doom"/> (Warhorn 4) and <Skill name="Executioners Scythe"/> (Shroud 5)
+2) CC the add with <Skill name="Grasping Darkness"/> (GS5), <Skill name="Wail of Doom"/> (Warhorn 4), <Skill name="Infusing Terror"/> (Shroud 3) and <Skill name="Executioners      Scythe"/> (Shroud 5)
 
 ### **Phase 2**
 
 1) Before she becomes vulnerable:
 	1) <Skill name="Locust Swarm"/> (Warhorn 5)
 	2) <Skill name="Signet of Vampirism"/> (Heal) 
-2) <Skill name="Soul Spiral"/> (Shroud 4)
+2) <Skill name="Souls Spiral"/> (Shroud 4)
 3) <Skill name="Ghastly Claws"/> (Axe 2)
 4) Weapon swap
 5) <Skill name="Gravedigger"/> (GS 2)
 6) Kill the anomaly, special action to _Artsariiv_
-7) Use both wells (hit the _Elite_ add too)
-8) <Skill name="Nightfall"/> (GS 4) (hit the _Elite_ add too)
-9) Shroud auto attack
+7) <Skill name="Nightfall"/> (GS 4) (hit the _Elite_ add too)
+8) Use both wells (hit the _Elite_ add too)
+9) Shroud auto attack until shroud 4 is off cooldown
 10) <Skill name="Soul Spiral"/> (Shroud 4)
 11) Shroud auto attack until ~6k Life Force
 12) If the boss isn't phased and health is 50% or lower:
@@ -352,10 +352,12 @@ If you do not run <Skill name="Summon Flesh Golem"/> start on axe/warhorn and us
 
 1) Go to your marker/direction
 2) CC the adds
+        1) first add: <Skill name="Grasping Darkness"/> (GS 5) from farther away so it hits + <Skill name="Wail of Doom"/> (Warhorn 4)
+        2) second add: <Skill name="Infusing Terror"/> (Shroud 3) + <Skill name="Executioners Scythe"/> (Shroud 5)
 
 ### **Phase 3**
 1) <Skill name="Gravedigger"/> (GS 2)
-2) Enter ySkill name="Lich Form"/>
+2) Enter <Skill name="Lich Form"/>
 	1) kill the _anomaly_
 	2) Special action key to _Artsariiv_
 	3) <Skill name="Lich Form"/> 4
@@ -384,8 +386,8 @@ If you do not run <Skill name="Summon Flesh Golem"/> start on axe/warhorn and us
 6) Cast <Skill name="Lich Form"/> 4 **again**
 
 ### **Phase 1**
-1) <Skill name="Nightfall"/> (GS 4)
-2) <Skill name="Grasping Darkness"/> (GS 5)
+1) <Skill name="Grasping Darkness"/> (GS 5)
+2) <Skill name="Nightfall"/> (GS 4)
 3) Place both of your wells
 4) <Skill name="Soul Spiral"/> (Shroud 4)
 5) Shroud auto attack until _Arkk_ phases **or**
